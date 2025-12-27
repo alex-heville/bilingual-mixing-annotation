@@ -1,0 +1,17 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, FAT Father, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|2;6.12|
+*MOT: Hello darling, how are you today?
+*CHI: Good!
+*MOT: Do you want más leche?
+*FAT: Look at the perro!
+*CHI: Doggy!
+*MOT: Let's go to the park.
+*FAT: Vamos a la tienda.
+*MOT: OK, we'll buy some pan.
+*CHI: Bread?
+*MOT: Yes, bread.
+@End
