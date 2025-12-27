@@ -1,0 +1,16 @@
+@Begin
+@Languages: eng, spa
+@Participants: FAT Father, CHI Child
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|3;2.14|
+*FAT: Let's build a casa.
+*CHI: House?
+*FAT: Yes, a house.
+*CHI: With ventanas?
+*FAT: Windows, yes.
+*CHI: And puerta.
+*FAT: Door, good.
+*FAT: Now we need a techo.
+*CHI: Roof!
+*FAT: Exactly.
+@End
