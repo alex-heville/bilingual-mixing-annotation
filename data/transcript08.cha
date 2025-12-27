@@ -1,0 +1,17 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, FAT Father, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|2;7.15|
+*MOT: We're going to the parque.
+*FAT: The park, yes.
+*CHI: Play!
+*MOT: You can play on the columpio.
+*FAT: Swing.
+*CHI: Swing!
+*MOT: And maybe go down the tobogán.
+*FAT: Slide.
+*CHI: Slide!
+*FAT: Let's go.
+@End
