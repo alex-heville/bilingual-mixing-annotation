@@ -1,0 +1,15 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|CHI|child|2;5.08|
+*MOT: What did you do at school today?
+*CHI: Played with amigos.
+*MOT: Amigos are friends.
+*CHI: Friends.
+*MOT: Did you eat lunch?
+*CHI: Sí, I ate sandwich.
+*MOT: Sandwich? That's English.
+*CHI: Sí.
+*MOT: OK, let's go home.
+@End
