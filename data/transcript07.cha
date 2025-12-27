@@ -1,0 +1,16 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|CHI|child|2;9.27|
+*MOT: What color is this?
+*CHI: Red.
+*MOT: And this?
+*CHI: Azul.
+*MOT: Azul is blue.
+*CHI: Blue.
+*MOT: And this is verde.
+*CHI: Green!
+*MOT: Very good.
+*CHI: I like colors.
+@End
