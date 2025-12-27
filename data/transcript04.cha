@@ -1,0 +1,17 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, FAT Father, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|2;11.20|
+*MOT: Let's read a libro.
+*FAT: Which book?
+*MOT: The one about animales.
+*CHI: Animals!
+*FAT: Yes, animales.
+*MOT: Look, there's a gato.
+*CHI: Cat!
+*FAT: And a perro.
+*CHI: Doggy!
+*MOT: Very good.
+@End
