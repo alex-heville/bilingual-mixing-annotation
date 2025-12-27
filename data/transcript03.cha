@@ -1,0 +1,15 @@
+@Begin
+@Languages: eng, spa
+@Participants: FAT Father, CHI Child
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|3;0.01|
+*FAT: Time to clean up your juguetes.
+*CHI: Toys?
+*FAT: Yes, your toys.
+*CHI: No quiero.
+*FAT: You said no quiero, that's Spanish.
+*CHI: I don't want to.
+*FAT: OK, we'll do it later.
+*CHI: Gracias, papa.
+*FAT: You're welcome.
+@End
