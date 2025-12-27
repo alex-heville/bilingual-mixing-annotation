@@ -1,0 +1,16 @@
+@Begin
+@Languages: eng, spa
+@Participants: FAT Father, CHI Child
+@ID: eng|bilingual|FAT|father||
+@ID: eng|bilingual|CHI|child|3;1.22|
+*FAT: What do you want for breakfast?
+*CHI: Cereal.
+*FAT: With milk?
+*CHI: Sí, with milk.
+*FAT: OK, here's your cereal.
+*CHI: Gracias.
+*FAT: You're welcome.
+*FAT: Eat your desayuno.
+*CHI: Breakfast?
+*FAT: Yes, breakfast.
+@End
