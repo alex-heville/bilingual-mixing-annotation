@@ -1,0 +1,16 @@
+@Begin
+@Languages: eng, spa
+@Participants: MOT Mother, CHI Child
+@ID: eng|bilingual|MOT|mother||
+@ID: eng|bilingual|CHI|child|2;8.03|
+*MOT: Are you hungry?
+*CHI: No.
+*MOT: Do you want a banana?
+*CHI: Sí.
+*MOT: You said sí, that means yes.
+*CHI: Yes.
+*MOT: Vamos a comer.
+*CHI: Eat.
+*MOT: Let's eat the manzana.
+*CHI: Apple!
+@End
